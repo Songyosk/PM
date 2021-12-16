@@ -31,15 +31,17 @@ Figure 2: Three-dimensional model of Fig. 1.
 
 <br />
 
-![F3](_figures_/two_dimensional_model__no_spanning.png)
+![F3](_figures_/two_dimensional_model_no_spanning.png)
 
 Figure 3: Two-dimensional model showing disks generated using the script provided. No spanning clusters is formed.
 
 <br />
 
-![F4](_figures_/three_dimensional_model.png)
+![F4](_figures_/three_dimensional_model_no_spanning.png)
 
 Figure 4: Three-dimensional model of Fig. 3.
+
+
 
 
 
