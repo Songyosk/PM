@@ -41,8 +41,11 @@ Figure 3: Two-dimensional model showing disks generated using the script provide
 
 Figure 4: Three-dimensional model of Fig. 3.
 
+<br />
 
+![F5](_figures_/probability_plot.png)
 
+Figure 5: Probability plot with various disk radii.
 
 
 
