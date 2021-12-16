@@ -19,3 +19,34 @@ Then activate the new environment by:
 
 ## Results
 
+![F1](_figures_/two_dimensional_model.png)
+
+Figure 1: Two-dimensional model showing disks generated using the script provided. A spanning cluster is formed.
+
+<br />
+
+![F2](_figures_/three_dimensional_model.png)
+
+Figure 2: Three-dimensional model of Fig. 1.
+
+<br />
+
+![F3](_figures_/two_dimensional_model__no_spanning.png)
+
+Figure 3: Two-dimensional model showing disks generated using the script provided. No spanning clusters is formed.
+
+<br />
+
+![F4](_figures_/three_dimensional_model.png)
+
+Figure 4: Three-dimensional model of Fig. 3.
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/son-gyo-jung-655537135/)
+
+
+## License
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
